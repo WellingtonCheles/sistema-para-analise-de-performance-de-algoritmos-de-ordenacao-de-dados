@@ -3,9 +3,9 @@
 ## Atividades práticas supervisionadas – APS IV – Trabalho apresentado como exigência para a avaliação do curso de Ciências da Computação da Universidade Paulista sob orientação de professores do semestre.
 
 ### Integrantes envolvidos no desenvolvimento da aplicação
+- Wellington Junior Cheles
 - Gabriel Eduardo Joioso
 - João Victor Caires
-- Wellington Junior Cheles
 
 ### Orientador
 - Prof. Dr. Leandro Carlos Fernandes
